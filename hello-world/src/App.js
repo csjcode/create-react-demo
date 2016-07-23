@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Test from './Test';
+import CommentBox from './CommentBox';
+import CommentList from './CommentList';
+import CommentForm from './CommentForm';
 
 class App extends Component {
 
@@ -10,12 +13,15 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to to Create React demo test</h2>
+          <h2>Welcome to Create React demo test</h2>
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
         <Test />
+        <CommentBox />
+        <CommentList />
+        <CommentForm />
       </div>
 
     );
