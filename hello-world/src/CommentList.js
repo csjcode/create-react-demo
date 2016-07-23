@@ -9,6 +9,7 @@ class CommentList extends Component {
         I am a comment list!
         <Comment author="Pete Hunt">This is one comment</Comment>
         <Comment author="Jordan Walke">This is *another* comment</Comment>
+        <Comment author="Chris">This is **another** comment</Comment>
       </div>
     );
   }
