@@ -3,8 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 import Test from './Test';
 import CommentBox from './CommentBox';
-import CommentList from './CommentList';
-import CommentForm from './CommentForm';
 
 class App extends Component {
 
