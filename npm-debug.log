@@ -1,6 +1,7 @@
 0 info it worked if it ends with ok
 1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
 1 verbose cli   'C:\\Users\\CS\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'run',
 1 verbose cli   'start' ]
 2 info using npm@3.5.3
 3 info using node@v5.5.0
@@ -8,7 +9,7 @@
 4 verbose stack     at Error (native)
 5 verbose cwd C:\Users\CS\Documents\Web Development\react\create-react-demo
 6 error Windows_NT 6.1.7601
-7 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\CS\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "start"
+7 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\CS\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "run" "start"
 8 error node v5.5.0
 9 error npm  v3.5.3
 10 error path C:\Users\CS\Documents\Web Development\react\package.json

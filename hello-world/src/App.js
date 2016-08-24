@@ -18,8 +18,6 @@ class App extends Component {
         </p>
         <Test />
         <CommentBox />
-        <CommentList />
-        <CommentForm />
       </div>
 
     );
