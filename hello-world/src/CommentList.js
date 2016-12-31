@@ -7,8 +7,8 @@ class CommentList extends Component {
     return (
       <div className="commentList">
         I am a comment list!
-        <Comment author="Pete Hunt">This is one comment</Comment>
-        <Comment author="Jordan Walke">This is *another* comment</Comment>
+        <Comment author="Bob Hunt">This is one comment witten by Bob Hunt</Comment>
+        <Comment author="John Walke">This is *another* comment by John Walke </Comment>
         <Comment author="Chris">This is **another** comment</Comment>
       </div>
     );

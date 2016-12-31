@@ -6,6 +6,7 @@ class CommentForm extends Component {
     return (
       <div className="commentForm">
         I am a comment Form!
+
       </div>
     );
   }
